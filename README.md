@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hi, I’m Xue Wen from National University of Singapore, NUS
+- 🥳 My personal website: [Chen-XueWen.github.io](Chen-XueWen.github.io)
+
+![Chen-XueWen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-XueWen&show_icons=true&bg_color=00000000)
+
 
 <!--
 **Chen-XueWen/Chen-XueWen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
