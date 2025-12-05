@@ -2,7 +2,7 @@
 - 🥳 My personal website: [Chen-XueWen.github.io](https://chen-xuewen.github.io/)
 
 ![](https://raw.githubusercontent.com/Chen-XueWen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
+![](https://raw.githubusercontent.com/Chen-XueWen/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **Chen-XueWen/Chen-XueWen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
