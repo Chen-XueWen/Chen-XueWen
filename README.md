@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xue Wen from National University of Singapore, NUS
 - 🥳 My personal website: [Chen-XueWen.github.io](https://chen-xuewen.github.io/)
 
-![Chen-XueWen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-XueWen&show_icons=true&bg_color=00000000)
+[![Xue Wen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-XueWen)](https://github.com/Chen-XueWen/github-readme-stats)
 
 
 <!--
