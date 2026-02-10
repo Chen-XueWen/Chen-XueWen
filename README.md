@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Xue Wen from National University of Singapore, NUS
 - 🥳 My personal website: [Chen-XueWen.github.io](https://chen-xuewen.github.io/)
 
-![](https://raw.githubusercontent.com/Chen-XueWen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Chen-XueWen/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![Xue Wen's GitHub stats](https://github-readme-stats-three-gamma-65.vercel.app/api?username=Chen-XueWen&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Chen-XueWen/github-readme-stats)
+
+[![Xue Wen's GitHub stats](https://github-readme-stats-three-gamma-65.vercel.app/api?username=Chen-XueWen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Chen-XueWen/github-readme-stats)
 
 <!--
 **Chen-XueWen/Chen-XueWen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
